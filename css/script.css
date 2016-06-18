@@ -1,0 +1,26 @@
+body /*image de background*/
+{
+    background-image: url("m1.png");
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-position: 300px 100px;
+
+}
+
+.mario /*position de mario*/
+{
+    
+    width: 70px;
+    margin-left: 400px;
+    margin-top: 510px;
+    position: absolute;
+}
+
+.coin  /*position de la pièce*/
+{
+    
+    width: 90px;
+    margin-left: 670px;
+    margin-top: 350px;
+    position: absolute;
+}
